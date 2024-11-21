@@ -62,6 +62,4 @@ Utilizei os prompts acima nas ferramentas sugeridas e gerei o material base e ut
 <br/><br/>
 <p>
 
----
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
